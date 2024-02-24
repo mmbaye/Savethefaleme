@@ -8,7 +8,7 @@ The outcomes of this study will not only contribute to a profound understanding 
 **Resources**
 
 Centre for Collaborative Investigative Journalism (CCIJ):
-Senegal: Environmental Crisis: ![](https://ccij.io/article/senegal-environmental-crisis/)
+Senegal: Environmental Crisis: https://ccij.io/article/senegal-environmental-crisis/
 Falémé: Tales of a silent death: ![](https://ccij.io/article/mali-silent-death/)
 Britannica: Falémé River: ![](https://www.britannica.com/place/Faleme-River)
 Wikipedia: Falémé River: ![](https://en.wikipedia.org/wiki/Fal%C3%A9m%C3%A9_River)
