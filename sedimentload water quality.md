@@ -143,7 +143,7 @@ print(chart(ftable, 'NDSSI','IC'))
 print(chart(ftable, 'NDSSI','NDWIA'))
 ```
 
-
+![](https://github.com/mmbaye/Savethefaleme/blob/main/images/images3.jpeg)
 
 ### Steps 
 
