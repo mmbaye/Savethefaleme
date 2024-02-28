@@ -153,3 +153,6 @@ print(chart(ftable, 'NDSSI','NDWIA'))
 4. **Apply across time:** Maps the function to all images for time-series analysis.
 5. **Chart:** Creates a chart of average sediment level (turbidity) over time.
 6. **Map:** Visualizes a recent image with a color-coded turbidity layer.
+
+![](https://github.com/mmbaye/Savethefaleme/blob/main/images/image1.jpeg)
+
